@@ -1,3 +1,3 @@
 # Hair-Salon-Website
 
-Go to master origin
+Go to master branch
